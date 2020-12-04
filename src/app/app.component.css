@@ -1,0 +1,10 @@
+h1 {
+  margin: 15px;
+  color: darkblue;
+  height: 37px;
+}
+ngx-monaco-editor {
+  height: calc(100% - 60px);
+  width: 100%;
+  padding: 15px;
+}
